@@ -20,7 +20,7 @@ The Hotel Management System is a CRUD-based web application that allows hotel st
 - **IDE:** Eclipse  
 - **Version Control:** Git & GitHub  
 
-## 🧱 Project Architecture
+##  Project Architecture
 - **Model:** Java classes & DAO layer for database interaction  
 - **View:** JSP pages for UI  
 - **Controller:** Servlets handling business logic and routing 
